@@ -1,5 +1,7 @@
 ARG AGOLAWEB_IMAGE="agola-web"
 
+Adding some new
+
 FROM $AGOLAWEB_IMAGE as agola-web
 
 #######
