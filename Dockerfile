@@ -5,7 +5,7 @@ Adding some new
 FROM $AGOLAWEB_IMAGE as agola-web
 
 #######
-####### Build the backend
+####### Build the backend Team and update
 #######
 
 # base build image
